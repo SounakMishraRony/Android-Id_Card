@@ -1,6 +1,6 @@
 # idcard
 
-A new Flutter project.
+A demo Flutter project featuring stateful widgets showing information of an user.
 
 ## Getting Started
 
